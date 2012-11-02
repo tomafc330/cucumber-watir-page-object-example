@@ -1,0 +1,122 @@
+[
+  {
+    "source": "^I click to the Home Page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:1",
+    "steps": [
+      {
+        "name": "I click to the Home Page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click the Register Link$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:5",
+    "steps": [
+      {
+        "name": "I click the Register Link",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should be taken to the registration page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:10",
+    "steps": [
+      {
+        "name": "I should be taken to the registration page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am on the Registration Page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:14",
+    "steps": [
+      {
+        "name": "I am on the Registration Page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I fill in the values using a random profile$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:19",
+    "steps": [
+      {
+        "name": "I fill in the values using a random profile",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click submit$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:30",
+    "steps": [
+      {
+        "name": "I click submit",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should see the success page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:34",
+    "steps": [
+      {
+        "name": "I should see the success page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I fill in the values using a default profile$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:39",
+    "steps": [
+      {
+        "name": "I fill in the values using a default profile",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should see the error on password field with text \"([^\"]*)\"$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:43",
+    "steps": [
+      {
+        "name": "I should see the error on password field with text \"Passwords don't match\"",
+        "args": [
+          {
+            "offset": 52,
+            "val": "Passwords don't match"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+urls:
+  register: 'https://bitly.com/a/sign_up'
+  home: 'https://bitly.com/'
+  login: 'https://bitly.com/a/sign_in'
+
+default_user:
+  email: asdf@asdf.com
+  password: asdf
+  confirmPassword: asdf2
+  username: asdf
